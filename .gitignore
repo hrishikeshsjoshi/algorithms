@@ -1,0 +1,12 @@
+/bin/
+
+.classpath
+.project
+
+# Compiled class file
+*.class
+
+##############################
+## OS X
+##############################
+.DS_Store
