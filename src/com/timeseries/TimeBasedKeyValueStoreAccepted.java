@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
+ * TimeBasedKeyValueStoreWithListAccepted solution is better.
  * https://leetcode.com/problems/time-based-key-value-store/
  *
  */
